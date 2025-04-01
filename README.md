@@ -13,3 +13,7 @@ White paper: “Foundational Large Language Models & Text Generation” whitepap
 Summary podcast episode (https://youtu.be/CFtX0ZyLSAY?si=wG1OqWUv3VbZRrLs).
 White paper “Prompt Engineering” (https://www.kaggle.com/whitepaper-prompt-engineering).
 
+## Unit 2 - "Embeddings and Vector Stores":
+
+Summary podcast episode: https://youtu.be/xCAVsst6WJ8?si=Tb7kNfDHeVYA7SBj
+White paper "Embeddings and Vector Stores: (https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
