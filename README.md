@@ -17,3 +17,11 @@ White paper “Prompt Engineering” (https://www.kaggle.com/whitepaper-prompt-e
 
 Summary podcast episode: https://youtu.be/xCAVsst6WJ8?si=Tb7kNfDHeVYA7SBj
 White paper "Embeddings and Vector Stores: (https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
+
+## Unit 3 - "Agents"
+
+Summary podcast (https://youtu.be/D3Kaqz7VW28?si=4QDH-e7pAUXCdCqE)
+White paper "Agents" (https://www.kaggle.com/whitepaper-agents)
+
+Bonus podcast "Agents companion" (https://youtu.be/7rbSwt-7odQ?si=QyVNKXQyXHFetF19)
+Bonus whitepaper " Agents companion"(https://www.kaggle.com/whitepaper-agent-companion)
