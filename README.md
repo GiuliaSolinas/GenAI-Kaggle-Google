@@ -25,3 +25,16 @@ White paper "Agents" (https://www.kaggle.com/whitepaper-agents)
 
 Bonus podcast "Agents companion" (https://youtu.be/7rbSwt-7odQ?si=QyVNKXQyXHFetF19)
 Bonus whitepaper " Agents companion"(https://www.kaggle.com/whitepaper-agent-companion)
+
+## Unit 4 - "Fine-tuning LLMs"
+
+White paper (https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
+Summary podcast (https://youtu.be/MWqspvVvNzA?si=dVxTLm0fyuw0Ft2a)
+
+## Unit 5 - MLOps
+Summary podcast (https://youtu.be/Hbk8UXavHrk?si=dOfHeqg1w8rO_ggY)
+White paper on MLOps: (https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
+
+## Videos on YouTube
+
+Playlist: https://youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&si=jGmxwj1PD-8XAar6
